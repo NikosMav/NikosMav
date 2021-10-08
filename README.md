@@ -30,7 +30,7 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
 
-<h2> Connect with me </h2>
+<h2> Contact </h2>
 <a href = 'https://www.linkedin.com/in/nikolaos-mavrapidis-990314194'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
   
 <h2> Stats </h2>
