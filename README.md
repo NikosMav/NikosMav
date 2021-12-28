@@ -34,6 +34,6 @@
   
 <h2> Stats </h2>
 
-| ![Nikos's github stats](https://github-readme-stats.vercel.app/api?username=NikosMav&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosMav&theme=) |
+| ![Nikos's github stats](https://github-readme-stats.vercel.app/api?username=NikosMav&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosMav&theme=tokyonight) |
 | --- | --- |
 <br>
