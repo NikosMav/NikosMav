@@ -31,9 +31,3 @@
 
 <h2> Contact </h2>
 <a href = 'https://www.linkedin.com/in/nikolaos-mavrapidis-990314194'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-  
-<h2> Stats </h2>
-
-| ![Nikos's github stats](https://github-readme-stats.vercel.app/api?username=NikosMav&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosMav&theme=tokyonight) |
-| --- | --- |
-<br>
