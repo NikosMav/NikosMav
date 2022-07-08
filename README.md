@@ -20,3 +20,5 @@
 <h2> Info </h2>
 
 [![NikosMav's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosMav)](https://github.com/NikosMav/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosMav)](https://github.com/NikosMav/github-readme-stats)
