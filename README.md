@@ -1,10 +1,8 @@
-# Nikos Mavrapidis - Informatics & Telecommunications Graduate
+# Nikos Mavrapidis
 
-## Welcome to my GitHub! 👋
+## Greetings! 👋
 
-![Informatics and Telecommunications](https://user-images.githubusercontent.com/[YourImageLinkHere]/informatics-telecommunications-banner.png)
-
-As an aspiring data analyst and computer scientist, I am dedicated to exploring the synergy between data and user-centric solutions. Currently completing my thesis at the National and Kapodistrian University of Athens, I thrive on challenges and am always on the lookout for collaborative projects that enhance my skills and contribute to the tech community.
+I'm Nikos, a recent graduate with a Bachelor of Science in Informatics and Telecommunications from the National and Kapodistrian University of Athens. With a solid foundation in computer science and a special interest in software development and data analytics, I am actively exploring job opportunities where I can apply my skills in data-driven problem solving and contribute meaningfully to innovative projects.
 
 ### 🛠 Tech Stack
 
@@ -25,7 +23,8 @@ I'm open to collaborating on projects that are aimed at:
 
 - Data Analysis and Visualization
 - Machine Learning and AI
-- Web Development and Cloud Solutions
+- Software Development
+- Web Development
 
 ### 📈 GitHub Stats
 
