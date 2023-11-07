@@ -13,7 +13,6 @@ Here are a few technologies I've been working with recently:
 - **Databases**: MySQL
 - **AI & Machine Learning**: TensorFlow, Keras
 - **Data Analytics & Visualization**: Tableau, RStudio
-- **Cloud Computing**: Google Cloud Platform
 
 Check out my [personal website](https://nikosmav.github.io) for more details on my work.
 
