@@ -2,7 +2,7 @@
 
 ## 👋 Hello!
 
-I'm Nikos Mavrapidis, a Software Engineer with a passion for creating efficient, scalable, and innovative solutions. Currently, I work at Software Competitiveness International S.A., contributing to high-impact software development projects. My technical expertise spans software development, data analytics, and machine learning.
+I'm Nikos, a Software Engineer with a passion for creating efficient, scalable, and innovative solutions. Currently, I work at Software Competitiveness International S.A., contributing to high-impact software development projects. My technical expertise spans software development, data analytics, and machine learning.
 
 ## 🛠 Tech Stack
 
