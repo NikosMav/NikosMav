@@ -1,40 +1,38 @@
 # Nikos Mavrapidis
 
-## Greetings! 👋
+## 👋 Hello!
 
-I'm Nikos, a recent graduate with a Bachelor of Science in Informatics and Telecommunications from the National and Kapodistrian University of Athens. With a solid foundation in computer science and a special interest in software development and data analytics, I am actively exploring job opportunities where I can apply my skills in data-driven problem solving and contribute meaningfully to innovative projects.
+I'm Nikos Mavrapidis, a Software Engineer with a passion for creating efficient, scalable, and innovative solutions. Currently, I work at Software Competitiveness International S.A., contributing to high-impact software development projects. My technical expertise spans software development, data analytics, and machine learning.
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-Here are a few technologies I've been working with recently:
+### Programming Languages
+- Python, C, C++, JavaScript
 
-- **Programming Languages**: Python, C, C++, JavaScript
-- **Web Development**: HTML, Node.js, React, Bootstrap
-- **Databases**: MySQL
-- **AI & Machine Learning**: TensorFlow, Keras
-- **Data Analytics & Visualization**: Tableau, RStudio
+### Web Development
+- HTML, CSS, Node.js, React.js, Bootstrap
 
-Check out my [personal website](https://nikosmav.github.io) for more details on my work.
+### Software Development Tools
+- Git/GitHub/GitLab, Linux, Bash Scripting, Microsoft Visual Studio Code, Yocto Project
 
-### 🤝 Collaboration
+### AI & Machine Learning
+- TensorFlow, Keras, Jupyter, Google Colab
 
-I'm open to collaborating on projects that are aimed at:
+### Data Analytics & Visualization
+- Tableau, RStudio
 
-- Data Analysis and Visualization
-- Machine Learning and AI
-- Software Development
-- Web Development
+## 🚀 Current Focus
+- Building robust and maintainable software solutions using Agile methodologies.
+- Exploring advancements in AI/ML and integrating them into practical applications.
+- Developing web-based tools and visualizations to address real-world challenges.
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![NikosMav's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosMav&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosMav&layout=compact&theme=radical&langs_count=10)
 
-### 📫 How to reach me:
-
-- **Email**: mavrapidisnikolaos@gmail.com
-- **LinkedIn**: [Nikolaos Mavrapidis](https://www.linkedin.com/in/nikolaos-mavrapidis-990314194)
-- **Phone**: +306977446455
-
-Let's connect and build something amazing together.
+## 📫 Let's Connect
+- **GitHub**: [NikosMav](https://github.com/NikosMav)
+- **Portfolio**: [nikosmav.github.io](https://nikosmav.github.io)
+- **LinkedIn**: [Nikolaos Mavrapidis](https://www.linkedin.com/in/nikolaos-mavrapidis)
