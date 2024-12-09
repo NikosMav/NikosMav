@@ -22,7 +22,7 @@ I'm Nikos, a Software Engineer with a passion for creating efficient, scalable, 
 - Tableau, RStudio
 
 ## 🚀 Current Focus
-- Building robust and maintainable software solutions using Agile methodologies.
+- Building robust and maintainable software solutions and developing new features.
 - Exploring advancements in AI/ML and integrating them into practical applications.
 - Developing web-based tools and visualizations to address real-world challenges.
 
@@ -33,6 +33,5 @@ I'm Nikos, a Software Engineer with a passion for creating efficient, scalable, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosMav&layout=compact&theme=radical&langs_count=10)
 
 ## 📫 Let's Connect
-- **GitHub**: [NikosMav](https://github.com/NikosMav)
 - **Portfolio**: [nikosmav.github.io](https://nikosmav.github.io)
 - **LinkedIn**: [Nikolaos Mavrapidis](https://www.linkedin.com/in/nikolaos-mavrapidis)
