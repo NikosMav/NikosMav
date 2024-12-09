@@ -13,7 +13,7 @@ I'm Nikos Mavrapidis, a Software Engineer with a passion for creating efficient,
 - HTML, CSS, Node.js, React.js, Bootstrap
 
 ### Software Development Tools
-- Git/GitHub/GitLab, Linux, Bash Scripting, Microsoft Visual Studio Code, Yocto Project
+- Git/GitHub/GitLab, Linux, Bash Scripting, Microsoft Visual Studio Code
 
 ### AI & Machine Learning
 - TensorFlow, Keras, Jupyter, Google Colab
