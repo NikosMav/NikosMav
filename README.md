@@ -2,7 +2,7 @@
 
 ## 👋 Hello!
 
-I'm Nikos, a Software Engineer with a passion for creating efficient, scalable, and innovative solutions. Currently, I work at Software Competitiveness International S.A., contributing to high-impact software development projects. My technical expertise spans software development, data analytics, and machine learning.
+I'm Nikos, a Software Engineer with a passion for creating efficient, scalable, and innovative solutions. Currently, I work at Software Competitiveness International S.A., contributing to high-impact software development projects.
 
 ## 🛠 Tech Stack
 
@@ -10,21 +10,16 @@ I'm Nikos, a Software Engineer with a passion for creating efficient, scalable, 
 - Python, C, C++, JavaScript
 
 ### Web Development
-- HTML, CSS, Node.js, React.js, Bootstrap
+- HTML, CSS, Node.js, React, Vite
 
 ### Software Development Tools
-- Git/GitHub/GitLab, Linux, Bash Scripting, Microsoft Visual Studio Code
+- Git, Linux, Bash, Visual Studio Code
 
 ### AI & Machine Learning
 - TensorFlow, Keras, Jupyter, Google Colab
 
 ### Data Analytics & Visualization
 - Tableau, RStudio
-
-## 🚀 Current Focus
-- Building robust and maintainable software solutions and developing new features.
-- Exploring advancements in AI/ML and integrating them into practical applications.
-- Developing web-based tools and visualizations to address real-world challenges.
 
 ## 📈 GitHub Stats
 
@@ -33,5 +28,5 @@ I'm Nikos, a Software Engineer with a passion for creating efficient, scalable, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosMav&layout=compact&theme=radical&langs_count=10)
 
 ## 📫 Let's Connect
-- **Portfolio**: [nikosmav.github.io](https://nikosmav.github.io)
+- **Portfolio**: [nikosmav.github.io](https://nikosmav.github.io/nikosmav-react/)
 - **LinkedIn**: [Nikolaos Mavrapidis](https://www.linkedin.com/in/nikolaos-mavrapidis)
