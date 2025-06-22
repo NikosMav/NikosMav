@@ -1,32 +1,110 @@
 # Nikos Mavrapidis
 
-## 👋 Hello!
+_Developer with 7.7 years on GitHub_
+**Softcom International**📍 Athens, Greece
+---
 
-I'm Nikos, a Software Engineer with a passion for creating efficient, scalable, and innovative solutions. Currently, I work at Software Competitiveness International S.A., contributing to high-impact software development projects.
+## 📞 Contact & Links
 
-## 🛠 Tech Stack
+- **GitHub:** [github.com/NikosMav](https://github.com/NikosMav) (8 followers, 11 following)
+- **Website:** [https://nikosmav.github.io/nikosmav-react/](https://nikosmav.github.io/nikosmav-react/)
+---
 
-### Programming Languages
-- Python, C, C++, JavaScript
+## 📊 Professional Summary
 
-### Web Development
-- HTML, CSS, Node.js, React, Vite
+- **7.7 years** of experience on GitHub since 2017
+- **15 original repositories** with **9 total stars** earned
+- **6 programming languages** in portfolio
+- **3 projects** actively maintained (updated in last 90 days)
+- Average **0.6 stars per repository**
 
-### Software Development Tools
-- Git, Linux, Bash, Visual Studio Code
+---
 
-### AI & Machine Learning
-- TensorFlow, Keras, Jupyter, Google Colab
+## 💻 Technical Expertise
 
-### Data Analytics & Visualization
-- Tableau, RStudio
+### Programming Languages & Proficiency
 
-## 📈 GitHub Stats
+**Jupyter Notebook** - Intermediate  
+**JavaScript** - Intermediate  
+**HTML** - Beginner  
+**Python** - Beginner  
+**C++** - Intermediate  
+**Java** - Beginner  
 
-![NikosMav's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosMav&show_icons=true&theme=radical)
+### Technology Stack Insights
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosMav&layout=compact&theme=radical&langs_count=10)
+- **Primary Language:** JavaScript (4 projects)
+- **Language Diversity:** 6 different technologies
+- **Most Popular Projects:** Jupyter Notebook ecosystem
 
-## 📫 Let's Connect
-- **Portfolio**: [Personal Website](https://nikosmav.github.io/nikosmav-react/)
-- **LinkedIn**: [Nikolaos Mavrapidis](https://www.linkedin.com/in/nikolaos-mavrapidis)
+---
+
+## 🚀 Featured Projects
+
+
+### [DataAnalysis-Netflix](https://github.com/NikosMav/DataAnalysis-Netflix) ·Jupyter Notebook
+A notebook for movie and TV show recommendations using Boolean and TF-IDF methods. Get personalized suggestions based on text descriptions and choose the method that suits your preferences.
+**Impact:** ⭐ 5 stars · 🍴 4 forks · 👀 5 watchers  
+**Activity:** 🔵 Stable (updated 487 days ago) · **Tags:** ai-techniques, data-analysis, data-visualization, netflix-dataset, neural-networks**License:** MIT License
+
+### [FakeNews-Classification](https://github.com/NikosMav/FakeNews-Classification) ·Jupyter Notebook
+In this notebook we analyze and classify news articles using machine learning techniques, including Logistic Regression, Naive Bayes, Support Vector Machines, and Random Forests. Explore text vectorization and NLP for accurate news categorization.
+**Impact:** ⭐ 2 stars · 🍴 0 forks · 👀 2 watchers  
+**Activity:** 🔵 Stable (updated 103 days ago) · **Tags:** fake-news-dataset, fake-news-detection, model-training, neural-networks, python-notebook**License:** MIT License
+
+### [ubiquitous-computing.github.io](https://github.com/NikosMav/ubiquitous-computing.github.io) ·JavaScript
+Thesis Project on Ubiquitous Computing. Hosted by Museum of IT 🎓 
+**Impact:** ⭐ 1 stars · 🍴 0 forks · 👀 1 watchers  
+**Activity:** 🔵 Stable (updated 260 days ago) · **Tags:** backend, face-api, frontend, handtrackjs, html-css**License:** MIT License
+
+### [worthifys-site](https://github.com/NikosMav/worthifys-site) ·JavaScript
+_Professional JavaScript project_
+**Impact:** ⭐ 1 stars · 🍴 0 forks · 👀 1 watchers  
+**Activity:** 🔵 Stable (updated 497 days ago)
+
+### [NikosMav](https://github.com/NikosMav/NikosMav) 
+Config files for my GitHub profile.
+**Impact:** ⭐ 0 stars · 🍴 0 forks · 👀 0 watchers  
+**Activity:** 🟢 Active (updated 20 days ago) · **Tags:** config, github-config
+
+### [NikosMav.github.io](https://github.com/NikosMav/NikosMav.github.io) ·HTML
+Personal website 🌐
+**Impact:** ⭐ 0 stars · 🍴 0 forks · 👀 0 watchers  
+**Activity:** 🟢 Active (updated 22 days ago)**License:** MIT License
+
+### [maritime_optimization](https://github.com/NikosMav/maritime_optimization) ·Python
+_Professional Python project_
+**Impact:** ⭐ 0 stars · 🍴 0 forks · 👀 0 watchers  
+**Activity:** 🔵 Stable (updated 193 days ago)
+
+### [Graphics-Opengl-Phong](https://github.com/NikosMav/Graphics-Opengl-Phong) ·C++
+_Professional C++ project_
+**Impact:** ⭐ 0 stars · 🍴 0 forks · 👀 0 watchers  
+**Activity:** 🔵 Stable (updated 542 days ago) · **Tags:** cpp, graphics-programming, opengl, phong-lighting
+
+---
+
+## 📈 Development Insights
+
+### Professional Indicators
+
+
+- **Code Volume:** ~456MB of code across all repositories
+- **Project Maintenance:** Excellent ongoing project maintenance
+- **Documentation Quality:** 87% of projects include documentation
+- **Open Source Commitment:** 15 public repositories demonstrate transparency
+
+---
+
+## 🏆 GitHub Statistics
+
+| Metric                  | Value                                          | Industry Insight                                                                                                                                                                                                                                                |
+| ----------------------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Account Age**         | 7.7 years                  | Experienced developer                                                                                                                     |
+| **Public Repositories** | 30                             | Very active                                                                                       |
+| **Community Reach**     | 8 followers                      | Building network                                                                                            |
+| **Total Stars Earned**  | 9 | Developing portfolio |
+
+---
+
+_This data-driven CV was generated from NikosMav's GitHub profile using [code2pdf](https://github.com/your-username/code2pdf)_
