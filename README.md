@@ -39,51 +39,6 @@ _Developer with 7.7 years on GitHub_
 
 ---
 
-## 🚀 Featured Projects
-
-
-### [DataAnalysis-Netflix](https://github.com/NikosMav/DataAnalysis-Netflix) ·Jupyter Notebook
-A notebook for movie and TV show recommendations using Boolean and TF-IDF methods. Get personalized suggestions based on text descriptions and choose the method that suits your preferences.
-**Impact:** ⭐ 5 stars · 🍴 4 forks · 👀 5 watchers  
-**Activity:** 🔵 Stable (updated 487 days ago) · **Tags:** ai-techniques, data-analysis, data-visualization, netflix-dataset, neural-networks**License:** MIT License
-
-### [FakeNews-Classification](https://github.com/NikosMav/FakeNews-Classification) ·Jupyter Notebook
-In this notebook we analyze and classify news articles using machine learning techniques, including Logistic Regression, Naive Bayes, Support Vector Machines, and Random Forests. Explore text vectorization and NLP for accurate news categorization.
-**Impact:** ⭐ 2 stars · 🍴 0 forks · 👀 2 watchers  
-**Activity:** 🔵 Stable (updated 103 days ago) · **Tags:** fake-news-dataset, fake-news-detection, model-training, neural-networks, python-notebook**License:** MIT License
-
-### [ubiquitous-computing.github.io](https://github.com/NikosMav/ubiquitous-computing.github.io) ·JavaScript
-Thesis Project on Ubiquitous Computing. Hosted by Museum of IT 🎓 
-**Impact:** ⭐ 1 stars · 🍴 0 forks · 👀 1 watchers  
-**Activity:** 🔵 Stable (updated 260 days ago) · **Tags:** backend, face-api, frontend, handtrackjs, html-css**License:** MIT License
-
-### [worthifys-site](https://github.com/NikosMav/worthifys-site) ·JavaScript
-_Professional JavaScript project_
-**Impact:** ⭐ 1 stars · 🍴 0 forks · 👀 1 watchers  
-**Activity:** 🔵 Stable (updated 497 days ago)
-
-### [NikosMav](https://github.com/NikosMav/NikosMav) 
-Config files for my GitHub profile.
-**Impact:** ⭐ 0 stars · 🍴 0 forks · 👀 0 watchers  
-**Activity:** 🟢 Active (updated 20 days ago) · **Tags:** config, github-config
-
-### [NikosMav.github.io](https://github.com/NikosMav/NikosMav.github.io) ·HTML
-Personal website 🌐
-**Impact:** ⭐ 0 stars · 🍴 0 forks · 👀 0 watchers  
-**Activity:** 🟢 Active (updated 22 days ago)**License:** MIT License
-
-### [maritime_optimization](https://github.com/NikosMav/maritime_optimization) ·Python
-_Professional Python project_
-**Impact:** ⭐ 0 stars · 🍴 0 forks · 👀 0 watchers  
-**Activity:** 🔵 Stable (updated 193 days ago)
-
-### [Graphics-Opengl-Phong](https://github.com/NikosMav/Graphics-Opengl-Phong) ·C++
-_Professional C++ project_
-**Impact:** ⭐ 0 stars · 🍴 0 forks · 👀 0 watchers  
-**Activity:** 🔵 Stable (updated 542 days ago) · **Tags:** cpp, graphics-programming, opengl, phong-lighting
-
----
-
 ## 📈 Development Insights
 
 ### Professional Indicators
