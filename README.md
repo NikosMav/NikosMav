@@ -62,4 +62,4 @@ _Developer with 7.7 years on GitHub_
 
 ---
 
-_This data-driven CV was generated from NikosMav's GitHub profile using [code2pdf](https://github.com/your-username/code2pdf)_
+_This data-driven CV was generated from NikosMav's GitHub profile using [code2pdf](https://github.com/nikosmav/code2pdf)_
