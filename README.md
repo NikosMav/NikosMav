@@ -22,14 +22,14 @@ _Developer with 7.7 years on GitHub_
 
 ## 💻 Technical Expertise
 
-### Programming Languages & Proficiency
+### Programming Languages
 
-**Jupyter Notebook** - Intermediate  
-**JavaScript** - Intermediate  
-**HTML** - Beginner  
-**Python** - Beginner  
-**C++** - Intermediate  
-**Java** - Beginner  
+**Jupyter Notebook**  
+**JavaScript**
+**HTML**  
+**Python**  
+**C++/C**  
+**Java**  
 
 ### Technology Stack Insights
 
