@@ -1,65 +1,20 @@
 # Nikos Mavrapidis
 
-_Developer with 7.7 years on GitHub_
-**Softcom International**📍 Athens, Greece
----
+Software engineer in Athens. I work on **industrial printing systems** at [Software Competitiveness International](https://www.softcom-int.com/) (Softcom), after several years on high-availability Linux network software for telecommunications.
 
-## 📞 Contact & Links
+BSc in Informatics and Computer Science, National and Kapodistrian University of Athens.
 
-- **GitHub:** [github.com/NikosMav](https://github.com/NikosMav) (8 followers, 11 following)
-- **Website:** [https://nikosmav.github.io/nikosmav-react/](https://nikosmav.github.io/nikosmav-react/)
----
+[Personal site](https://nikosmav.github.io/nikosmav-react/) · [LinkedIn](https://www.linkedin.com/in/nikolaos-mavrapidis)
 
-## 📊 Professional Summary
+## Selected work
 
-- **7.7 years** of experience on GitHub since 2017
-- **15 original repositories** with **9 total stars** earned
-- **6 programming languages** in portfolio
-- **3 projects** actively maintained (updated in last 90 days)
-- Average **0.6 stars per repository**
+- **[Camelia Wellness Center](https://github.com/NikosMav/camelia-wellness-case-study)** — bilingual wellness site: product design, localization, GCP and Cloudflare. [Live site](https://www.cameliawellnesscenter.com)
+- **Worthify** — AI vehicle valuation across 200k+ listings. Source stays private; a public case study is next.
+- **[github-scraper](https://github.com/NikosMav/github-scraper)** — CLI that builds a structured résumé from a GitHub profile
+- **[Ubiquitous Computing thesis](https://github.com/NikosMav/ubiquitous-computing.github.io)** — interactive exhibit at the Museum of IT, NKUA. [Thesis PDF](https://pergamos.lib.uoa.gr/uoa/dl/object/3362706/file.pdf)
 
----
+Day-to-day client and product work lives in private repos. What is public here is case studies, tools, and a small set of selected coursework.
 
-## 💻 Technical Expertise
+## Stack
 
-### Programming Languages
-
-**Jupyter Notebook**  
-**JavaScript**
-**HTML**  
-**Python**  
-**C++/C**  
-**Java**  
-
-### Technology Stack Insights
-
-- **Primary Language:** JavaScript (4 projects)
-- **Language Diversity:** 6 different technologies
-- **Most Popular Projects:** Jupyter Notebook ecosystem
-
----
-
-## 📈 Development Insights
-
-### Professional Indicators
-
-
-- **Code Volume:** ~456MB of code across all repositories
-- **Project Maintenance:** Excellent ongoing project maintenance
-- **Documentation Quality:** 87% of projects include documentation
-- **Open Source Commitment:** 15 public repositories demonstrate transparency
-
----
-
-## 🏆 GitHub Statistics
-
-| Metric                  | Value                                          | Industry Insight                                                                                                                                                                                                                                                |
-| ----------------------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Account Age**         | 7.7 years                  | Experienced developer                                                                                                                     |
-| **Public Repositories** | 30                             | Very active                                                                                       |
-| **Community Reach**     | 8 followers                      | Building network                                                                                            |
-| **Total Stars Earned**  | 9 | Developing portfolio |
-
----
-
-_This data-driven CV was generated from NikosMav's GitHub profile using [code2pdf](https://github.com/nikosmav/code2pdf)_
+C/C++ · Java / Spring · Python · JavaScript · Linux networking · GitLab CI / Jenkins · test automation
