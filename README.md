@@ -8,8 +8,8 @@ BSc in Informatics and Computer Science, National and Kapodistrian University of
 
 ## Selected work
 
+- **[Lope](https://github.com/NikosMav/lope-case-study)** — AI-native recruitment CRM built by a team of three and run in production with recruiting agencies: explainable vector search, LinkedIn enrichment, interview intelligence, and an MCP server (1,500+ interviews, ~800 AI-sourced candidates). [Case study](https://nikosmav.github.io/lope-case-study/)
 - **[Camelia Wellness Center](https://github.com/NikosMav/camelia-wellness-case-study)** — bilingual wellness site: product design, localization, GCP and Cloudflare. [Live](https://www.cameliawellnesscenter.com)
-- **[Lope](https://withlope.com/)** — side project. Intelligence layer above CRM and ATS for recruiting teams.
 - **[Worthify](https://github.com/NikosMav/worthify-case-study)** — team hackathon for used-car valuation on 100k+ listings (R² = 0.97, ~6% MdAPE). Prototype is no longer live.
 - **[github-scraper](https://github.com/NikosMav/github-scraper)** — CLI that builds a structured résumé from a GitHub profile.
 - **[Ubiquitous Computing thesis](https://github.com/NikosMav/ubiquitous-computing.github.io)** — interactive exhibit at the Museum of IT, NKUA. [PDF](https://pergamos.lib.uoa.gr/uoa/dl/object/3362706/file.pdf)
