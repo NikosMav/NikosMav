@@ -14,7 +14,7 @@ BSc in Informatics and Computer Science, National and Kapodistrian University of
 - **[github-scraper](https://github.com/NikosMav/github-scraper)** — CLI that builds a structured résumé from a GitHub profile.
 - **[Database File Structures](https://github.com/NikosMav/db-file-structures)**: heap files, hash files with overflow chains, and a B+ tree in C. Disk blocks, record storage, splits, and scans, with a reproducible build and regression tests.
 - **[MNIST Vector Search](https://github.com/NikosMav/mnist-vector-search)**: approximate nearest-neighbour search and clustering in C++, plus autoencoder latent-space search. Includes full-dataset benchmarks.
-- **[Ubiquitous Computing thesis](https://github.com/NikosMav/ubiquitous-computing.github.io)**: NKUA museum exhibit concept, with a responsive learning experience and browser-based computer vision. [PDF](https://pergamos.lib.uoa.gr/uoa/dl/object/3362706/file.pdf)
+- **[Ubiquitous Computing thesis](https://github.com/NikosMav/ubiquitous-computing.github.io)**: NKUA museum exhibit concept, combining desktop scrollytelling, an optional reading version and browser-based computer vision. [PDF](https://pergamos.lib.uoa.gr/uoa/dl/object/3362706/file.pdf)
 
 This profile contains personal projects, public case studies, tools, and selected academic work.
 
